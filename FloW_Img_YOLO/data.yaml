@@ -1,0 +1,8 @@
+path: /Volumes/Livia's Storage/Users/Documents/Telkom_University/Outside_Classes/Competition/Inovboyo/FloW_Img_YOLO
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names:
+  0: sampah_terapung
